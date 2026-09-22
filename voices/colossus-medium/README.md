@@ -1,7 +1,5 @@
 # Colossus medium voice
 
-Production Piper voice exported from Colossus v11 training epoch 5919.
-
 Keep these files together:
 
 - `en_US-colossus-medium.onnx`
